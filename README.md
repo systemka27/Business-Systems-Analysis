@@ -30,7 +30,7 @@
 `BPMN 2.0` `UML (Class Diagrams)` `ERD` `DFD (Диаграммы потоков данных)`
 
 **Инструменты:**
-`Draw.io`  `PlantUML` `Weeek` `Postman` `Swagger/OpenAPI` 
+`Draw.io`  `PlantUML` `StormBPMN` `Postman` `Swagger/OpenAPI` 
 
 **Методологии и практики:**
 `Выявление требований` `Управление стейкхолдерами` `Agile/Scrum` `Приоритизация требований` `Оптимизация процессов`
